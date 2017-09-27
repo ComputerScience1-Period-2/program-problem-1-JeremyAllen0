@@ -1,0 +1,5 @@
+﻿  Display Text
+c:\users\233309\desktop\computer science projects\jeremy_allen_displaytext\jeremy_allen_displaytext\display text(16): warning C4305: 'initializing': truncation from 'int' to 'char'
+c:\users\233309\desktop\computer science projects\jeremy_allen_displaytext\jeremy_allen_displaytext\display text(16): warning C4309: 'initializing': truncation of constant value
+  Jeremy_Allen_DisplayText.vcxproj -> C:\Users\233309\Desktop\Computer Science Projects\Jeremy_Allen_DisplayText\Debug\Jeremy_Allen_DisplayText.exe
+  Jeremy_Allen_DisplayText.vcxproj -> C:\Users\233309\Desktop\Computer Science Projects\Jeremy_Allen_DisplayText\Debug\Jeremy_Allen_DisplayText.pdb (Partial PDB)
